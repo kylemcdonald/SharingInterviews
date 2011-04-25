@@ -1,8 +1,8 @@
 # Sharing Interviews
-## with [Kyle McDonald](http://kylemcdonald.net/)
-## interviewing [Mehmet S. Akten](http://memo.tv/) (Memo)
 
 *This is the first interview in a series about creators sharing work, with an emphasis on open source and digital communities. The interviews are backed up on GitHub after being conducted on PiratePad, where you can walk through the interview history [as it was written](http://j.mp/gERzlD).*
+
+## with [Kyle McDonald](http://kylemcdonald.net/) interviewing [Mehmet S. Akten](http://memo.tv/) (Memo)
 
 ###Who are you and what do you do?
 My name is Memo. I work primarily as a visual artist, and run The Mega Super Awesome Visuals Company. My output ranges from large-scale immersive interactive installations; live music/dance/theatre performances, music videos; to online works and mobile applications. I use a mixture of tools for my work, ranging from traditional computer graphics / animation applications, to writing a lot of my own software - currently mainly with openFrameworks / C++. I split my time between client commissioned projects, self-initiated projects, research and demos.
