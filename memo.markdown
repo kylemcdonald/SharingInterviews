@@ -1,6 +1,6 @@
 # Sharing Interviews
 
-*This is the first interview in a series about creators sharing work, with an emphasis on open source and digital communities. The interviews are backed up on [GitHub](http://github.com/kylemcdonald/SharingInterviews/) after being conducted on PiratePad, where you can walk through the interview history [as it was written](http://j.mp/gERzlD).*
+*This is the first interview in a series about creators sharing work, with an emphasis on open source and digital communities. The interviews are backed up on [GitHub](http://github.com/kylemcdonald/SharingInterviews/) after being conducted on PiratePad, where you can walk through the interview history [as it was written](http://j.mp/gERzlD). All content is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).*
 
 ## with [Kyle McDonald](http://kylemcdonald.net/) interviewing [Mehmet S. Akten](http://memo.tv/) (Memo)
 
