@@ -1,6 +1,6 @@
 # Sharing Interviews
 
-*This is the first interview in a series about creators sharing work, with an emphasis on open source and digital communities. The interviews are backed up on GitHub after being conducted on PiratePad, where you can walk through the interview history [as it was written](http://j.mp/gERzlD).*
+*This is the first interview in a series about creators sharing work, with an emphasis on open source and digital communities. The interviews are backed up on [GitHub](http://github.com/kylemcdonald/SharingInterviews/) after being conducted on PiratePad, where you can walk through the interview history [as it was written](http://j.mp/gERzlD).*
 
 ## with [Kyle McDonald](http://kylemcdonald.net/) interviewing [Mehmet S. Akten](http://memo.tv/) (Memo)
 
@@ -18,7 +18,7 @@ So since then, I've felt that for open source to work, everybody needs to give a
 Why is sharing important to you? Would your work be the same if you weren't sharing?
 I share because I feel I have to as part of this ecosystem, but I don't feel consciously obliged, it just comes naturally, subconsciously. I give what I can, and I take in return, it's a natural exchange. And it feels great to see other people doing great work in part thanks to something I have put out there. Actually the answer to this question is reeaaaaly long and related to the questions below so I'll cut it short here and carry on the answer in the following questions. 
 
-###Who is your audience? You have quite a diverse collection of work from desktop apps like the [OKGo 'WTF' effect](http://msavisuals.com/holidays2009) to toolkits for coding like [MSAFluid](http://www.msavisuals.com/msafluid). Do you see your work as  contributing new knowledge and understanding? Or are you, as in the case of MSAFluid, acting as an intermediary between more academic research and a sort of artistic/hacker audience?
+###You have quite a diverse collection of work from desktop apps like the [OKGo 'WTF' effect](http://msavisuals.com/holidays2009) to toolkits for coding like [MSAFluid](http://www.msavisuals.com/msafluid). Do you see your work as  contributing new knowledge and understanding? Or are you, as in the case of MSAFluid, acting as an intermediary between more academic research and a sort of artistic/hacker audience?
 The stuff I release as open source, is generally aimed at making things which aren't very accessible. This might be providing simple interfaces for not-so simple simulations (e.g. fluids, physics, particles etc.), or it might be examples of how to do certain complex things. So generally it's aimed at an audience of non-techy creatives. 
 
 For me the artist/hacker audience is extremely important - or 'normal' folk as I prefer to think of it. I guess this may be linked to my own growing up. I grew up as a kid in Turkey with not much facilities around to explore a lot of the things I would have loved to explore - even though in Turkish standards I was very privileged to have a computer at an early age and went to a good school with great facilities etc.
