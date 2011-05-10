@@ -102,7 +102,7 @@ In many ways, at the time I was interested in Glitch, it was a relatively new an
 
 But from a strict community perspective, I tend to not participate in the more academic discussions. I make tools, and I share them with others because at the end of the day, it's just as beneficial to me as it is to them. Using a term I heard in Chicago, I "domesticate" glitch into something more controllable, and easier to approach.
 
-###You worked with Bill Etra on your Rutt-Etra synth. For him, it's "[the beginnings of what he had dreamt of](http://v002.info/?page_id=19)" after decades of waiting. Did he ever imagine it would exist as software instead of hardware? How do you both feel about this, given the fact that it can be duplicated and given away at zero cost whereas before it was a bulky [knob-covered box](http://www.flickr.com/photos/lastdavid/2212836004/)?
+###You worked with Bill Etra on your Rutt-Etra synth. For him, it's "[the beginnings of what [he] had dreamt of](http://v002.info/?page_id=19)" after decades of waiting. Did he ever imagine it would exist as software instead of hardware? How do you both feel about this, given the fact that it can be duplicated and given away at zero cost whereas before it was a bulky [knob-covered box](http://www.flickr.com/photos/lastdavid/2212836004/)?
 
 The real hardware is so capable and does so much more than what it's commonly understood to do. [Benton C. Bainbridge](http://www.benton-c.com/) has shown me up close and personal some of its quirkier and more interesting aspects, things the software cannot currently emulate at all, at some level just because of its digital roots, compared to the hardwares genuine analog circuitry.
 
