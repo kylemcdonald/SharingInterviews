@@ -1,4 +1,4 @@
-# Sharing Interviews
+# [Sharing Interviews](https://github.com/kylemcdonald/SharingInterviews/)
 
 *This is the third interview in a series about creators sharing work, with an emphasis on open source, media art, and digital communities. The interviews are edited and backed up on [GitHub](http://github.com/kylemcdonald/SharingInterviews/) after being conducted on PiratePad, where you can walk through the interview history [as it was written](http://j.mp/iebZz6). Anton completed the interview offline, but the questions are still available on PiratePad. All content is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).*
 
