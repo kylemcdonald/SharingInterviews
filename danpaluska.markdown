@@ -31,9 +31,9 @@ i feel super fortunate to be friends with all the people from the creative codin
 ###In one of my favorite blog posts, you suggest the possibility  of all private information being made public. Just the information, not  the control of that information: "your bank statements are public but not the bank password". What about information created with others? I've  seen crazy arguments between friends trying to decide on how to license the code they wrote together. Or during "One Minute Per Day", what  about all the emails people send you, the pictures, the video chat sessions?
 
 i consider all my input to be public domain but i'm happy to let a collaborator choose a license. so far, that has never been an issue.
-I think the OMPD videos are fast enough that anyone else's content that passes through is sufficiently abstracted, http://www.youtube.com/danpaluska  i promise a special edition with song that will be uploaded later today or tomorrow.
+I think [the OMPD videos](http://www.youtube.com/danpaluska) are fast enough that anyone else's content that passes through is sufficiently abstracted, i promise a special edition with song that will be uploaded later today or tomorrow.
 
-i believe in small steps and regular practice. we've seen it time and time again, some set of secure or locked down information gets let loose, or a levee breaks, or an oil tanker spills, or red toxic sludge(http://www.youtube.com/watch?v=OLgQMKIwCMc), or nuclear reactor meltdown occurs, etc. 
+i believe in small steps and regular practice. we've seen it time and time again, some set of secure or locked down information gets let loose, or a levee breaks, or an oil tanker spills, or [red toxic sludge](http://www.youtube.com/watch?v=OLgQMKIwCMc), or nuclear reactor meltdown occurs, etc. 
 i think it's healthy to assume that i have less control of my physical and informational possessions than i believe. if i follow the "release early, release often" mantra, pressure and toxicity are less likely to build up.
 
 at best, security is an illusion. inhale, exhale. the air is gone from my lungs and i have no control over it. i am swimming in this ocean, i am living on top of this land, none of this is mine. 
@@ -80,7 +80,7 @@ i found religion confusing as a child, so many rules to follow and then this con
 
 ###You seem to share things in every space you can find, real or virtual. Photos on Flickr, videos on Vimeo and YouTube, doodles on chalkboards, notes on post its, scribbles on receipts posted on office walls and inside public elevators. And the work itself fills whatever space you can find: your words evenly fill rectangles, your letters are capitalized to fill the words, and your lines are drawn as squiggles that fill the letters. Why do you believe it's more helpful to fill space, providing an overabundance of information, than to carefully pick and choose what you share? In other words: how can you make an impact with 600+ YouTube uploads when most of them have fewer than 10 hits?
 
-to keep my numbers moving up, here's a chalkboard doodle i made monday while thinking about this interview: http://www.youtube.com/watch?v=YgWbkC0quHw
+to keep my numbers moving up, here's [a chalkboard doodle i made monday](http://www.youtube.com/watch?v=YgWbkC0quHw) while thinking about this interview.
 
 between all the youtube channels i have started for various timelapse and videobooth appliances, i would guess that is closer to 5000 uploads with most fewer than 10 hits. ;)
 
