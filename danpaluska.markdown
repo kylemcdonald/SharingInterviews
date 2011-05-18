@@ -104,7 +104,7 @@ i look around and notice the trend in personal devices. i have a phone and lapto
 
 how about learning to share physical things as easily as we share digital things. in this case i'm not talking about making copies of physical things, i'm talking about shared usage of single devices. to me, this is the only version of a sustainable future. something like a native american philosophy.  this technology is part of the land. shared. not owned by anyone. we are all stewards. it's very important to give all of this away as quickly as possible. when i come to a new piece of land, do i place a stake in it declaring it to be mine? or do i send a call to others so they may come sit and enjoy?
 
-go tell it on the mountain,
-over the hills and everywhere
-go tell it on the mountain
-that information is free.
+go tell it on the mountain,  
+over the hills and everywhere  
+go tell it on the mountain  
+that information is free.  
