@@ -4,11 +4,11 @@
 
 ## with [Kyle McDonald](http://kylemcdonald.net/) interviewing [Anton Marini](http://vade.info/) (vade)
 
-###Who are you and what do you do?
+### Who are you and what do you do?
 
 My name is Anton Marini. I make pretty things with pixels for work and for play.
 
-###Most people probably know you from the work you've been sharing online for years now, using Jitter, Quartz Composer, and other visually-oriented software. How did you get started sharing? What communities and people would you identify as influences?
+### Most people probably know you from the work you've been sharing online for years now, using Jitter, Quartz Composer, and other visually-oriented software. How did you get started sharing? What communities and people would you identify as influences?
 
 Sharing has been an important part of my learning process. I am not the type of learner who can read a formula or an abstract process and immediately understand its key points and figure out ways to use it. I have to get my hands on things, play, experiment, and learn to intuit behavior and properties. I've found sharing results and processes to help me as much as it helps others, and I certainly would not be where I am on my own, isolated.
 
@@ -24,7 +24,7 @@ Those two moments stick out most in my head, but there are countless of others t
 
 The Max/MSP/Jitter community has an ongoing set of threads named ["Sharing is Fun"](http://www.google.com/search?q=%22sharing+is+fun%22+site:cycling74.com), where users post riffs or takes on how to accomplish particular tasks - which helped greatly technically with Jitter, finding creative and almost... abusive... uses for objects. I could go on and on, [Kineme](http://kineme.net/), the [openFrameworks forums](http://forum.openframeworks.cc/), the [Demo Scene](http://scene.org/)...
 
-###[Syphon](http://syphon.v002.info/) is one of the most important pieces of software in years for visualists. Why is it completely free and open source?
+### [Syphon](http://syphon.v002.info/) is one of the most important pieces of software in years for visualists. Why is it completely free and open source?
 
 In order for Syphon to be useful, it needs to have an ecosystem of implemented applications that will spur further adoption, and make exciting combinations possible. The more working applications, the more creative potential just due to the combinatorics. Tom and I worked towards what seemed to be the easiest path to getting the most implementations and acceptance of a "standard" with least resistance.
 
@@ -32,7 +32,7 @@ Cost is a barrier to entry, and Syphon is a tool that in many ways 'outsources' 
 
 In a way, it could not be anything but open source. Syphon's implementation transparency and licensing allows quick and painless adoption by communities and developers that use small, niche tools that want integration into larger environments. It was a matter of necessity if we wanted Syphon to gain traction.
 
-###Syphon's interesting in that it had a very careful development. It wasn't on GitHub or Google Code from the beginning. You and [Tom Butterworth](http://kriss.cx/tom/) spent a lot of time developing it without telling anyone, then releasing it as a private beta, and finally releasing it publicly. Why was it done this way?
+### Syphon's interesting in that it had a very careful development. It wasn't on GitHub or Google Code from the beginning. You and [Tom Butterworth](http://kriss.cx/tom/) spent a lot of time developing it without telling anyone, then releasing it as a private beta, and finally releasing it publicly. Why was it done this way?
 
 Prior to Syphon (actually, a few years before), I had mass emailed every contact I knew who might be interested and helpful in making what I had called "Open Video Tap". Every commercial and open source developer, be they in the VJ field, new media, or game development, all expressed interest in the idea - but had no real time or money to devote to developing a workable solution. The idea was not a really a novel one, or a well kept secret, but it was very non-trivial at the time. However, with the introduction of Mac OS X 10.6 Apple introduced the necessary framework for something like Open Video Tap with [IOSurface](http://cocoadhoc.blogspot.com/2009/09/hidden-gems-of-snow-leopard-iosurface.html), and told no one about it. Now, it seemed as though it could be handled by a small development group, and Tom and I saw an opportunity make this ourselves. The barrier was a lot lower.
 
@@ -40,7 +40,7 @@ Keeping development somewhat closed was a very deliberate strategy to ensure tha
 
 Keeping the development of Syphon out of sight also allowed us to identify and correct issues with the API, so that once we let Syphon out of the box, developers would have a clean and tested API for rolling out support. Something that made sense and worked. We wanted to do it "right" from the start. We also wanted to announce it with a set of "out of the box" working implementations to demonstrate Syphon, so it's appeal would be apparent and immediately useful. Writing those implementations was also a real world test suite to see if the idea was even remotely sound and useful and importantly stable. Releasing something as a sharing toolkit, with no useful options from the start is a bit of a lackluster, self defeating announcement. We wanted to avoid that. I guess In a way we approached its like a real commercial product. Weird.
 
-###How do you balance development of free tools like Syphon with your "day job" with [Noise Industries](http://www.noiseindustries.com/)? Do you ever think "I wish I could open source this cool thing I'm building"?
+### How do you balance development of free tools like Syphon with your "day job" with [Noise Industries](http://www.noiseindustries.com/)? Do you ever think "I wish I could open source this cool thing I'm building"?
 
 Its kind of a mixed bag. Noise Industries has already created an amazingly useful set of plugins for Quartz Composer that you can use and leverage if you've installed [FXFactoryPro](http://www.noiseindustries.com/fxfactorypro/). The main product are the plugins for After Effects, Final Cut and Motion. We build those based on some additional "lower level" tools we add to Quartz Composer. Those lower level tools are actually usable outside of FXFactoryPro (and the hosts), so while they are not free and open-source, they are accessible and usable to "power users" who want to build their own effects for Final Cut, Motion and After Effects (or play with inside of Quartz Composer and friends). There are tons of useful utility objects that make working with Quartz Composer easier, most of which I wish were standard in the environment.
 
@@ -48,7 +48,7 @@ Some personal projects of mine, for example specific effects and "looks" that I 
 
 That said, If I had my way, I would like everything to eventually be made open source, only because it pushes the field and the art along further and faster, and in more unexpected and unintended ways. Sadly however, donations for open source projects are so rare that a living wage is pretty much impossible to earn (strictly on the programming side). So I think there is some balance to be struck, but I definitely err on the side of wanting to share, and discuss pretty much everything.
 
-###I remember a funny comment someone [left on your Vimeo](http://vimeo.com/14566287#comment_4637000) recently: "Vade: you solve all the right problems !" Besides Syphon, you've spent a lot of time working on other essential tools: like solid playback and recording, or, more recently, 3d model loading in Quartz Composer. How do you decide what "problems to solve", and how do you go about solving them?
+### I remember a funny comment someone [left on your Vimeo](http://vimeo.com/14566287#comment_4637000) recently: "Vade: you solve all the right problems !" Besides Syphon, you've spent a lot of time working on other essential tools: like solid playback and recording, or, more recently, 3d model loading in Quartz Composer. How do you decide what "problems to solve", and how do you go about solving them?
 
 Ha! If only!
 
@@ -60,7 +60,7 @@ On the other hand, some solutions by their nature need to be "correct" in a tech
 
 My thought process tends to be: "is this fast enough for a realtime performance environment?". If not, fake it! If I cant fake it, or can't solve it, research it some more, and put it on the back burner until someone else does, and move along in the mean time. I think I'm fairly pragmatic in my approaches, and try not to beat a dead horse too often. I can't even begin to tell you how many half implemented, "unsolved" projects I have sitting around.
 
-###A big part of your work is very purely about visual aesthetics and performing live visuals. When you're releasing tools that are essential to your "look", do you ever worry about other people "looking the same"?
+### A big part of your work is very purely about visual aesthetics and performing live visuals. When you're releasing tools that are essential to your "look", do you ever worry about other people "looking the same"?
 
 At some level, different people use the same tools in different capacities and styles. Two people might play the same piano, but the style, mastery, artistry and creativity between them is unique. It's apparent pretty quickly, I think. So in the sense of "looking the same", generally I am not too worried about that. Some effects however, really do have a very very specific aesthetic, and can, for lack of a better word, be far too personal to release.
 
@@ -78,7 +78,7 @@ I mentioned a bit of my personal policy above; I think there are some effects th
 
 I'm not sure I've really found a right approach, but I try to keep a balance. It's not set in stone, and I change my mind about it every week or so (really). It's a very nuanced issue for me, and I don't think there is a right or wrong answer. Currently, I try to release flexible tools, that have enough push and pull in them that you can stumble on and find unique looks. If something I've made does not have that flexibility, in a way, its not quite finished, and ready for release.
 
-###[v001](http://001.vade.info/) and [v002](http://v002.info/) are licensed as cc-attribution-noncommerical. And your interpretation is that it only applies to the code -- so people are free to perform with it in a commercial context, just not free to sell it or integrate it into commercial software. Syphon is Simplified BSD, which basically means you can do whatever you want with it. Can you explain why you chose these licenses?
+### [v001](http://001.vade.info/) and [v002](http://v002.info/) are licensed as cc-attribution-noncommerical. And your interpretation is that it only applies to the code -- so people are free to perform with it in a commercial context, just not free to sell it or integrate it into commercial software. Syphon is Simplified BSD, which basically means you can do whatever you want with it. Can you explain why you chose these licenses?
 
 I've explained the licensing of Syphon above. Its more of a utility - meaning it carries little creative inertia in and of itself. Its not a tool that guides or informs visuals - it helps you mix tools that otherwise might not play well together. Licensing was set up to spur adoption and creation of tools like [MadMapper](http://www.modul8.us/?tag=madmapper), so I think the BSD licensing was really necessary.
 
@@ -86,13 +86,13 @@ The v002 / v001 licenses (and code) are much more specific in their creative int
 
 I really wish I never had to deal with it licensing at all. It's not fun to think about, but a sort of necessary evil.
 
-###How do you stay connected with the people using your tools?
+### How do you stay connected with the people using your tools?
 
 There are some communities I follow pretty closely, almost daily - the Quartz Composer, Jitter communities - so I tend to eventually stumble on to postings and questions that I can help with, or that happen to use my tools. Other times, I will get emails from users, discussing a particular issue regarding Syphon and some other 3rd party app. If that's the case, I try to discuss the problems on the softwares board or forum. Tom and I also have set up a v002 and Syphon forum that gets some activity.
 
 Most of the communication I have is, unfortunately trouble shooting or feature requests. I would love to see more people showing me how they have used the tools, and what they have created. That is far more rewarding and interesting to me.
 
-###Glitch, which is a huge part of your visual work, has an interesting relationship with sharing. Some people react to discovery of a glitch by holding the glitch captive, making it their secret, and sharing the results without sharing the process. But it's much more common for people to try and explain to others how it happened, how they might recreate it, and work on a mutual understanding of the phenomena. Last year there was some [discussion](http://www.davidoreilly.com/2009/02/datamoshing-is-so-over) around motion compression artifacts/datamoshing. There was a funny balance between a few people keeping it to themselves, and tons of others making software to recreate the effect. I'm also thinking of the more academic sharing in Rosa Menkman's "[Vernacular of File Formats](http://rosa-menkman.blogspot.com/2010/08/vernacular-of-file-formats-2-workshop.html)" or Cory Arcangel's "[On Compression](http://front.nfshost.com/noisenotnoise/?p=24)", which explore glitch through explanation. You don't really write tutorials, and you don't write essays, but your software is accomplishing something similar by democratizing the means to the creation of these glitches. How would you describe your relationship with glitch?
+### Glitch, which is a huge part of your visual work, has an interesting relationship with sharing. Some people react to discovery of a glitch by holding the glitch captive, making it their secret, and sharing the results without sharing the process. But it's much more common for people to try and explain to others how it happened, how they might recreate it, and work on a mutual understanding of the phenomena. Last year there was some [discussion](http://www.davidoreilly.com/2009/02/datamoshing-is-so-over) around motion compression artifacts/datamoshing. There was a funny balance between a few people keeping it to themselves, and tons of others making software to recreate the effect. I'm also thinking of the more academic sharing in Rosa Menkman's "[Vernacular of File Formats](http://rosa-menkman.blogspot.com/2010/08/vernacular-of-file-formats-2-workshop.html)" or Cory Arcangel's "[On Compression](http://front.nfshost.com/noisenotnoise/?p=24)", which explore glitch through explanation. You don't really write tutorials, and you don't write essays, but your software is accomplishing something similar by democratizing the means to the creation of these glitches. How would you describe your relationship with glitch?
 
 When I first 'understood" Glitch, I saw it purely as an aesthetic experience. I am interested mostly beauty (ha), and trying to re-create what I see in my mind on to the screen. A lot of glitch theory discusses politics of systems and how glitches expose the internals of systems to the public in unexpected and unintended ways, and how glitch is larger than just technical issues, but can be understood on a more social context, can help understand the power politics, and expose all sorts of other phenomenon.
 
@@ -102,7 +102,7 @@ In many ways, at the time I was interested in Glitch, it was a relatively new an
 
 But from a strict community perspective, I tend to not participate in the more academic discussions. I make tools, and I share them with others because at the end of the day, it's just as beneficial to me as it is to them. Using a term I heard in Chicago, I "domesticate" glitch into something more controllable, and easier to approach.
 
-###You worked with Bill Etra on your Rutt-Etra synth. For him, it's "[the beginnings of what [he] had dreamt of](http://v002.info/?page_id=19)" after decades of waiting. Did he ever imagine it would exist as software instead of hardware? How do you both feel about this, given the fact that it can be duplicated and given away at zero cost whereas before it was a bulky [knob-covered box](http://www.flickr.com/photos/lastdavid/2212836004/)?
+### You worked with Bill Etra on your Rutt-Etra synth. For him, it's "[the beginnings of what [he] had dreamt of](http://v002.info/?page_id=19)" after decades of waiting. Did he ever imagine it would exist as software instead of hardware? How do you both feel about this, given the fact that it can be duplicated and given away at zero cost whereas before it was a bulky [knob-covered box](http://www.flickr.com/photos/lastdavid/2212836004/)?
 
 The real hardware is so capable and does so much more than what it's commonly understood to do. [Benton C. Bainbridge](http://www.benton-c.com/) has shown me up close and personal some of its quirkier and more interesting aspects, things the software cannot currently emulate at all, at some level just because of its digital roots, compared to the hardwares genuine analog circuitry.
 
@@ -110,7 +110,7 @@ However, I'm sure Bill expected "visual instruments" to move to software, he was
 
 For me, I think its great. I feel very strongly that anyone should be able to explore realtime creativity without the need for bulky boxes, expensive software or hardware (I say this, ironically, while typing on an $2000 laptop, har). The trend has always been towards cheaper, smaller and more flexible solutions. I think the software Rutt is simply part of that trend, and I was and am very fortunate to work with Bill on it.
 
-###How do you see performance of live visuals changing in the future, and what effect do you see the visualist community having? Do you see more people making their own tools and sharing them, or more people using others' tools?
+### How do you see performance of live visuals changing in the future, and what effect do you see the visualist community having? Do you see more people making their own tools and sharing them, or more people using others' tools?
 
 I think we will see much more custom tool creation, and I suspect, sharing of those new tools.
 
